@@ -1,4 +1,14 @@
-{ "produto": { "codigo": 123, "nome": "Nome do Produto", "valor": 9999.99 }, "condicaoPagamento": { "valorEntrada": 9999.99, "qtdeParcelas": 999 } }# Getting Started
+Para execução do programa foi usado o postman utilizando os valores descritos abaixo abrindo e execuando o java aplication dentro da Class
+
+utilizando o juros de 1,15% a.d (34,5 a.m) 
+
+{
+"produto": { "codigo": 1, "nome": "Radio", "valor": 600 }, "condicaoPagamento": { "valorEntrada": 0, "qtdeParcelas": 7 } 
+}
+
+# Getting Started
+
+
 
 ### Reference Documentation
 For further reference, please consider the following sections:
